@@ -1,3 +1,3 @@
 # demo
 
-some description!
+sample repo for testing my git knowledge
